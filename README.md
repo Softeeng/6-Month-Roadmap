@@ -47,7 +47,7 @@ I'm a developer on a dual learning journey building projects at the intersection
 ---
 
 ## 🚀 What I'm Working on
-I'm currently in the early stages of boh roadmap, building foundtional skills while keeping my eyes on the bigger picture. My goal is to create a portfolio that showcases not just technical ability, but also creativity, attention to user expereince, and awareness of real-world constraints like security and privacy.
+I'm currently in the early stages of both roadmaps, building foundational skills while keeping my eyes on the bigger picture. My goal is to create a portfolio that showcases not just technical ability, but also creativity, attention to user expereince, and awareness of real-world constraints like security and privacy.
 
 ---
 
